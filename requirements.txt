@@ -2,3 +2,4 @@ flask
 biopython
 requests
 gunicorn
+matplotlib

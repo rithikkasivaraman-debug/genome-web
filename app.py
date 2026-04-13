@@ -1,3 +1,4 @@
+import os
 # -*- coding: utf-8 -*-
 from flask import Flask, request, render_template_string, jsonify
 from Bio.Blast import NCBIWWW, NCBIXML

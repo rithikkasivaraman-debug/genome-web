@@ -1,0 +1,4 @@
+flask
+biopython
+requests
+gunicorn
